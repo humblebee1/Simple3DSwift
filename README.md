@@ -1,5 +1,7 @@
 # Simple 3D Swift
 
+Quick test.
+
 ![Simple3DSwiftDemo](/simple3Ddemo.gif?raw=true "Simple3DSwift Demo")
 
 A quick experiment in minimalist [Swift](https://developer.apple.com/swift/) coding and [3D math](https://www.amazon.com/Math-Primer-Graphics-Game-Development-ebook-dp-B008KZU548/dp/B008KZU548).
